@@ -1,7 +1,7 @@
 p=int(input("enter your 4 digit pin number:"))
-print("welcome to state bank of india")
 m=25000        
 if (p==1234):
+    print("welcome to state bank of india")
     print("1-withdraw")  
     print("2-balance enquiry")  
     print("3-fast cash")   

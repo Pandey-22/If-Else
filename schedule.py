@@ -111,7 +111,6 @@ else:
 
 
 
-
 # f=input("enter the how many takng time")   
 # if f>="5 min" or f<="10 min":
 #     print("taking for 1st flor")
